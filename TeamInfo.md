@@ -10,10 +10,10 @@
 | Captain     |    pcm3@illinois.edu   |
 | Member1     |      Matt Straczek     |
 | Member1     |  mstrac4@illinois.edu  |
-| Member3     |         Qi Yu          |
-| Member3     |   qiyu6@illinois.edu   |
-| Member4     |        Hao Qi          |
-| Member4     |   haoqi3@illinois.edu  |
+| Member2     |         Qi Yu          |
+| Member2     |   qiyu6@illinois.edu   |
+| Member3     |        Hao Qi          |
+| Member3     |   haoqi3@illinois.edu  |
 
 ## Project Information
 
