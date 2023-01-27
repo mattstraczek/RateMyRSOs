@@ -1,17 +1,15 @@
-# team000-sample
+# Team104-alawiniHutJr
 
 ## Basic Information
 
 |   Info      |        Description     |
 | ----------- | ---------------------- |
 | TeamID      |        Team-104        |
-| TeamName    |         sample         |
-| Captain     |          TBD           |
-| Captain     |          TBD           |
+| TeamName    |      alawiniHutJr      |
+| Captain     |   Peyton Clair Murray  |
+| Captain     |    pcm3@illinois.edu   |
 | Member1     |      Matt Straczek     |
 | Member1     |  mstrac4@illinois.edu  |
-| Member2     |   Peyton Clair Murray  |
-| Member2     |    pcm3@illinois.edu   |
 | Member3     |         Qi Yu          |
 | Member3     |   qiyu6@illinois.edu   |
 | Member4     |        Hao Qi          |
