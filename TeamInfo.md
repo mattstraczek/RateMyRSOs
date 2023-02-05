@@ -25,4 +25,7 @@
 
 ## Project Summary
 
-This is a summary of the project!
+This project intends to build a review website, RateMyRSOs, that allows students at UIUC to post reviews and
+ratings to UIUC’s Registered Student Organizations (RSOs). RateMyRSOs would resemble the functionalities
+of RateMyProfessors, a popular website for professor and college ratings, but focused on sharing the reviews
+and ratings for RSOs at UIUC instead.
