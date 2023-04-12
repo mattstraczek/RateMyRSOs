@@ -1,2 +1,4 @@
 .DS_Store
 # sdklf
+node_modules/
+rate-my-rsos/node_modules/
