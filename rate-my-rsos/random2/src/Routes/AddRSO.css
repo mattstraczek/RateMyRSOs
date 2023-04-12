@@ -1,0 +1,11 @@
+.rso__attr {
+  margin: 0.5rem 0 0.5rem;
+}
+
+.rso__attr--inputs {
+  margin-left: 0.5rem;
+}
+
+.rso__attr--inputs::placeholder {
+  opacity: 0.6;
+}
