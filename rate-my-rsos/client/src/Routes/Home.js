@@ -3,6 +3,7 @@ import { useEffect } from "react";
 import { useNavigate } from "react-router-dom";
 import SearchBar from "../Components/SearchBar";
 import "./Home.css";
+import Navbar from "../Components/Navbar";
 
 function useHandleRSOClick() {
   const navigate = useNavigate();
@@ -72,6 +73,7 @@ function Home() {
 
   return (
     <div>
+      <Navbar></Navbar>
       <div className="homepage__header-bar">
         <h1 className="homepage__heading"> RateMyRSOs </h1>
         <button className="btn" onClick={() => handleAddRSO()}>
